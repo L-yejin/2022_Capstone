@@ -1,6 +1,7 @@
 ### 2022_Capstone
 # 안면 이미지 초해상화 & 특징점 검출
 - 국민대학교 AI빅데이터융합경영학과 2022 캡스톤디자인 강의중 진행된 프로젝트
+- 해당 주제로 [국민대학교 캡스톤 경진대회](https://github.com/L-yejin/2022_Capstone/tree/main/2022%20KMU%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 장려상 수상 
 
 |기간|Tags|역할|
 |--|--|--|
